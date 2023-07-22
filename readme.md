@@ -1,1 +1,3 @@
-<iframe src="https://giphy.com/embed/UsmcxQeK7BRBK" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/star-wars-yoda-the-force-UsmcxQeK7BRBK">via GIPHY</a></p>
+<p align="center">
+  <img src="https://media1.giphy.com/media/UsmcxQeK7BRBK/giphy.gif" alt="I am the Gral"/>
+</p>
